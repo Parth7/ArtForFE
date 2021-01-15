@@ -1,7 +1,7 @@
 ### ArtForFE
 # Creating Art Using Financial Engineering
 
-Co-created with Parth7.  
+Created by Parth7 and HamzaBC-UCL.  
 
 We use financial engineering techniques to create art using Python (matlibplot).  
 
