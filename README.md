@@ -1,5 +1,5 @@
-### ArtForFE
 # Creating Art Using Financial Engineering
+### ArtForFE
 
 Created by Parth7 and HamzaBC-UCL.  
 
